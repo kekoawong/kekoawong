@@ -4,6 +4,15 @@
 
 [![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/kekoawong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekoawong&hide=jupyter%20notebook,html,css&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/kekoawong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=tokyonight" alt="Kekoa's GitHub Stats" />
+</a>
+
 <!--
 **kekoawong/kekoawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
