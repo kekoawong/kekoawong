@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekoawong&hide=jupyter%20notebook&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekoawong&hide=jupyter%20notebook&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kekoawong/kekoawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
