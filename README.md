@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekoawong)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
