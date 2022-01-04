@@ -13,7 +13,7 @@ My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://k
 ## 🤙 Connect
 
 - 📧 Email me at kwong6@nd.edu
-- <a href="https://www.linkedin.com/in/kekoawong/"><img src="https://raw.githubusercontent.com/kekoawong/kekoawong/master/linkedin.png" width="20px" align="bottom"></a> Connect with me on LinkedIn at [@kekoawong](https://www.linkedin.com/in/kekoawong/)
+- 🟦 Connect with me on LinkedIn at [@kekoawong](https://www.linkedin.com/in/kekoawong/)
 
 <!--
 **kekoawong/kekoawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
