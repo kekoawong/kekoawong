@@ -1,5 +1,10 @@
 # <img src="https://raw.githubusercontent.com/kekoawong/kekoawong/master/wave.gif" width="50px" align="bottom"> Hi there 
-My name is Kekoa Wong, come learn more about me at [kekoawong.com/](https://kekoawong.com/).
+My name is Kekoa Wong, come learn more about me at [kekoawong.com](https://kekoawong.com/).
+
+- 📍 Sacramento, California
+- 📚 Studying Computer Enginnering and Philosophy at the University of Notre Dame 
+- 💭 Passionate about 🧠 cognitive science, 💡 entreprenuership, and ⚖️ philosophy
+- ☺️ Enjoy 🌲 exploring nature, 🏀 playing sports, 🪁 and flying kites on a nice windy day
 
 
 ## &#x1f4c8; GitHub Stats
