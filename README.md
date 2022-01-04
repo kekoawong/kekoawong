@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekoawong&hide=juptyer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kekoawong/kekoawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
