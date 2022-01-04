@@ -8,7 +8,7 @@ My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://k
 
 
 ## &#x1f4c8; GitHub Stats
-[![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/kekoawong?tab=repositories)
 
 ## 🤙 Connect
 
