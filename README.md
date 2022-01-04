@@ -10,6 +10,11 @@ My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://k
 ## &#x1f4c8; GitHub Stats
 [![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🤙 Connect
+
+- 📧 kwong6@nd.edu
+- <a href="https://www.flaticon.com/authors/riajulislam" title="riajulislam">riajulislam</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> [@kekoawong](https://www.linkedin.com/in/kekoawong/)
+
 <!--
 **kekoawong/kekoawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
