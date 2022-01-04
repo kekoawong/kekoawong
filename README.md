@@ -2,7 +2,7 @@
 My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://kekoawong.com/).
 
 - 📍 Sacramento, California
-- Studying 💻 computer engineering and 📖 philosophy at the 🎓 University of Notre Dame 
+- Studying 💻 Computer Engineering and 📖 Philosophy at the 🎓 University of Notre Dame 
 - Passionate about 🧠 cognitive science, 💡 entreprenuership, and ⚖️ philosophy
 - Enjoy 🌲 exploring nature, 🏀 playing sports, 🪁 and flying kites on a nice windy day
 
