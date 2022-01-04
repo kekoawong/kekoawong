@@ -14,6 +14,7 @@ My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://k
 
 - 📧 Email me at kwong6@nd.edu
 - 🟦 Connect with me on LinkedIn at [@kekoawong](https://www.linkedin.com/in/kekoawong/)
+- 🔗 Personal Website at [kekoawong.com](https://kekoawong.com/).
 
 <!--
 **kekoawong/kekoawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
