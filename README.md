@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/kekoawong/kekoawong/master/wave.gif" width="50px" align="bottom">
+# <img src="https://raw.githubusercontent.com/kekoawong/kekoawong/master/wave.gif" width="50px" align="bottom"> Hi there 
 My name is Kekoa Wong, come learn more about me at [kekoawong.com/](https://kekoawong.com/).
 
 
