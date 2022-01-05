@@ -6,10 +6,6 @@ My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://k
 - Passionate about 🧠 cognitive science, 💡 entreprenuership, and ⚖️ philosophy
 - Enjoy 🌲 exploring nature, 🏀 playing sports, and 🪁 flying kites on a nice windy day
 
-
-## &#x1f4c8; GitHub Stats
-[![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/kekoawong?tab=repositories)
-
 ## 🧰 Technical Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -44,6 +40,9 @@ And always, with great help from...
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+## &#x1f4c8; GitHub Stats
+[![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/kekoawong?tab=repositories)
 
 ## 🤙 Connect
 
