@@ -47,7 +47,7 @@ And always, with great help from...
 ## 🤙 Connect
 
 - 📧 Email me at kwong6@nd.edu
-- 🟦 Connect with me on LinkedIn at [@kekoawong](https://www.linkedin.com/in/kekoawong/)
+- 🟦 Connect with me on LinkedIn [@kekoawong](https://www.linkedin.com/in/kekoawong/)
 - 🔗 Personal website at [kekoawong.com](https://kekoawong.com/).
 
 <!--
