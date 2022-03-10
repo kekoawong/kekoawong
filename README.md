@@ -42,8 +42,8 @@ And always, with great help from...
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kekoawong&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats)  
 [![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/kekoawong?tab=repositories)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kekoawong&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats)
 
 ## 🤙 Connect
 
