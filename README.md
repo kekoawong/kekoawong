@@ -43,6 +43,7 @@ And always, with great help from...
 
 ## &#x1f4c8; GitHub Stats
 [![Kekoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekoawong&show_icons=true&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/kekoawong?tab=repositories)
+<img src="https://komarev.com/ghpvc/?username=kekoawong&style=flat-square&color=blue" alt=""/>
 
 ## 🤙 Connect
 
