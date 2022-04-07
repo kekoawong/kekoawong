@@ -1,10 +1,17 @@
 # <img src="https://raw.githubusercontent.com/kekoawong/kekoawong/master/wave2.gif" width="50px" align="bottom"> Hello there 
 My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://kekoawong.com/).
 
+📍 Sacramento, California
+🎓 Computer Engineering and Honors Philosophy, University of Notre Dame 2022
+
+I have a lot of experience operating in fast-paced startup environments and interacting in cross-collaborational teams. Technically, I am most proficient working with software development with React Native and data science projects with Python. I especially enjoy writing clean, modular code that can be understood and easily reused by other developers. Beyond this, I have research interests in human behavior and cognition (especially how it relates to our relationship to technology), which combine my philosophical and technical background.
+
+<!-- 
 - 📍 Sacramento, California
 - Studying 💻 Computer Engineering and 📖 Philosophy at the 🎓 University of Notre Dame 
 - Passionate about 🧠 cognitive science, 💡 entreprenuership, and ⚖️ philosophy
 - Enjoy 🌲 exploring nature, 🏀 playing sports, and 🪁 flying kites on a nice windy day
+ -->
 
 ## 🧰 Technical Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,6 +22,7 @@ My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://k
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
