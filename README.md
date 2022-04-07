@@ -2,7 +2,7 @@
 My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://kekoawong.com/).
 
 📍 **Sacramento, California**  
-🎓 **Computer Engineering** and **Honors Philosophy**, *University of Notre Dame 2022*
+🎓 Double Majored in **Computer Engineering** and **Honors Philosophy**, *University of Notre Dame 2022*
 
 I have a lot of experience operating in **fast-paced startup environments** and interacting in **cross-collaborational teams**. Technically, I am most proficient working in *software development* with **React Native** and *data science* with **Python**. I especially enjoy writing **clean, modular code** that can be understood and easily reused by other developers. Beyond this, I have research interests in *human behavior and cognition* (especially how it relates to our relationship to technology), which combine my philosophical and technical background.
 
