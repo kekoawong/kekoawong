@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/kekoawong/kekoawong/master/wave2.gif" width="250" height="250" align="bottom"> Hello there 
+# <img src="https://raw.githubusercontent.com/kekoawong/kekoawong/master/wave2.gif" width="10" height="10" align="bottom"> Hello there 
 My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://kekoawong.com/).
 
 📍 **Sacramento, California**  
