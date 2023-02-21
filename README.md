@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/kekoawong/kekoawong/master/wave2.gif" width="50" height="50" align="bottom"> Hello there 
-My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://kekoawong.com/).
+<!-- My name is **Kekoa Wong**, come learn more about me at [kekoawong.com](https://kekoawong.com/). -->
 
 📍 **Sacramento, California**  
 🎓 **Computer Engineering** and **Honors Philosophy**, *University of Notre Dame 2022*
