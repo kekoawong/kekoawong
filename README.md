@@ -56,9 +56,9 @@ And always, with great help from...
 
 ## 🤙 Connect
 
-- 📧 Email me at kwong6@nd.edu
 - 🟦 Connect with me on LinkedIn [@kekoawong](https://www.linkedin.com/in/kekoawong/)
 - 🔗 Personal website at [kekoawong.com](https://kekoawong.com/).
+- 🖊️ View some of my writings on [Medium](https://medium.com/@kekoawong).
 
 <!--
 **kekoawong/kekoawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
