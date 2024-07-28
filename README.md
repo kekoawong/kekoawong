@@ -1,3 +1,7 @@
+Kekoa is a research + software engineer. Reach out to him **[here at kekoawong.com](https://kekoawong.com/)**
+
+💼 He is currently at **[Verily](https://en.wikipedia.org/wiki/Verily)** (formerly Google Life Sciences) - a **[Google X](https://en.wikipedia.org/wiki/X_Development)** healthtech moonshot that is now an **[Alphabet](https://en.wikipedia.org/wiki/Alphabet_Inc.)** subsidiary.
+
 🔗 **Reach out to me at [kekoawong.com]**(https://kekoawong.com/)
 📍 **Boston, MA**  
 🎓 **Computer Engineering** and **Honors Philosophy**, *University of Notre Dame*
